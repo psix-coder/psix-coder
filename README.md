@@ -71,7 +71,7 @@ print(dev.life_philosophy())
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
+<img src="[https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif](https://giphy.com/gifs/theweeknd-the-weeknd-heartless-KB7Moe2Oj0BXeDjvDp)" width="100"/>
 
 **Core Language**
 
