@@ -126,7 +126,13 @@ print(dev.life_philosophy())
 ## 📈 Contribution Heatmap
 
 <div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
+  
+  **My coding journey mapped in green! 🗺️**
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=psixcoder&custom_title=Abdulloh's%20Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=667eea&area_color=764ba2&area=true&hide_border=true" alt="Contribution Graph"/>
+  
+  *"Consistency is the key to mastery - every green square is a step forward! 🚀"*
 </div>
 
 ---
