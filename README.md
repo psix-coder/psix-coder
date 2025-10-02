@@ -6,47 +6,10 @@
   <img src="https://media.giphy.com/media/KB7Moe2Oj0BXeDjvDp/giphy.gif" width="600" />
 </div>
 
-<br/>
 
-<div align="center">
-  
-  ## 🎯 Python Backend Architect | Django Specialist
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Backend+Systems;Crafting+Elegant+APIs+with+Django;Turning+Coffee+into+Code+☕" alt="Typing SVG" />
-  
-</div>
-
----
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-### 👨‍💻 About Me
-
-```python
-class BackendWizard:
-    def __init__(self):
-        self.name = "Abdulloh"
-        self.role = "Python Backend Developer"
-        self.experience = "Strong Junior"
-        self.status = "Leveling Up Every Day 🚀"
-        
-    @property
-    def tech_stack(self):
-        return {
-            "language": ["Python"],
-            "framework": ["Django", "DRF"],
-            "database": ["PostgreSQL"],
-            "tools": ["Git", "GitHub", "Linux"],
-            "currently_learning": ["System Design", "Microservices"],
-            "hobbies": ["Playing Hard Games 🎮", "Debugging Code 🐛"]
-        }
-    
-    def life_philosophy(self):
-        return "Code is poetry, bugs are just plot twists! 💡"
-
-dev = BackendWizard()
-print(dev.life_philosophy())
-```
 
 <br clear="right"/>
 
