@@ -1,37 +1,3 @@
-## ⚡ Tech Arsenal
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
-
-**Core Language**
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100"/>
-
-**Framework Mastery**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100"/>
-
-**Database Power**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</td>
-</tr>
-</table>
-
 ### 🛠️ Development Tools
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
