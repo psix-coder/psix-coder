@@ -1,18 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=ABDULLOH&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/KB7Moe2Oj0BXeDjvDp/giphy.gif" width="600" />
-</div>
-
-
-
-
-
-
-
-
 ## ⚡ Tech Arsenal
 
 <div align="center">
