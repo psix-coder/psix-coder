@@ -8,24 +8,10 @@
 
 
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 
-<br clear="right"/>
 
----
 
-## 🎮 When I'm Not Coding...
-
-<div align="center">
-  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="500"/>
-  
-  **I'm conquering hard games and challenging myself with impossible levels!**
-  
-  *Because if you can beat Dark Souls, you can fix any bug 😎*
-</div>
-
----
 
 ## ⚡ Tech Arsenal
 
