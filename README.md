@@ -100,38 +100,6 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
 </div>
 
-```javascript
-const currentStatus = {
-    focus: {
-        learning: [
-            "🏗️ Advanced Django Patterns",
-            "🔧 System Design & Architecture", 
-            "🚀 Performance Optimization",
-            "🐳 Docker & Containerization"
-        ],
-        building: "Scalable RESTful APIs that developers love to use",
-        goal_2025: "Reach Mid-Level & Contribute to Open Source"
-    },
-    
-    workingOn: [
-        "🔥 Building production-ready Django applications",
-        "📚 Mastering PostgreSQL optimization",
-        "🎯 Creating clean, maintainable code"
-    ],
-    
-    openTo: {
-        collaboration: true,
-        learning: true,
-        mentorship: true,
-        challenges: "Bring them on! 💪"
-    }
-};
-```
-
----
-
-## 🌟 Code Philosophy
-
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
   
